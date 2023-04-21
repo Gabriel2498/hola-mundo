@@ -10,6 +10,6 @@
   <h1>Bienvenidos Hola Mundo</h1>
   <h2>las autoridades han sido alertadas
 
-</2>
+</h2>
 </body>
 </html>
